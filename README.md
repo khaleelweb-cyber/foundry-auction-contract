@@ -32,3 +32,5 @@ make deploy-sepolia
 
 ## Author
 IBRAHIM KHALEEL
+## Deployed Contract
+Sepolia: https://sepolia.etherscan.io/address/0x42b898c3f62dfDD929f15a8014D4085044e634d7
